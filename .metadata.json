@@ -1,0 +1,14 @@
+[
+  {
+    "package": "greybox",
+    "oncran": true
+  },
+  {
+    "package": "legion",
+    "oncran": true
+  },
+  {
+    "package": "smooth",
+    "oncran": true
+  }
+]
