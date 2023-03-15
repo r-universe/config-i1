@@ -1,6 +1,6 @@
 [
   {
-    "package": "smooth",
+    "package": "greybox",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "greybox",
+    "package": "smooth",
     "oncran": true
   }
 ]
