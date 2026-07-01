@@ -11,6 +11,9 @@
 [submodule "legion"]
 	path = legion
 	url = https://github.com/config-i1/legion
+[submodule "muse"]
+	path = muse
+	url = https://github.com/config-i1/muse
 [submodule "smooth"]
 	path = smooth
 	url = https://github.com/config-i1/smooth
