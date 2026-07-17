@@ -5,15 +5,3 @@
 [submodule "complex"]
 	path = complex
 	url = https://github.com/config-i1/complex
-[submodule "greybox"]
-	path = greybox
-	url = https://github.com/config-i1/greybox
-[submodule "legion"]
-	path = legion
-	url = https://github.com/config-i1/legion
-[submodule "muse"]
-	path = muse
-	url = https://github.com/config-i1/muse
-[submodule "smooth"]
-	path = smooth
-	url = https://github.com/config-i1/smooth
